@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Created this project to learn how to fetch json data from an api and to put that data into state and pass it down as a prop to my child component.Also learnt how to use how to use lifecycle methods like the component did mount.
+
 ## Available Scripts
 
 In the project directory, you can run:
